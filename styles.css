@@ -5,7 +5,8 @@ body {
 h1 {
     color: white;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
 }
 
 
@@ -13,10 +14,25 @@ h1 {
     padding: 10px;
     border-radius: 5px;
     border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
 }
 .remove {
     background-color: red;
     padding: 10px;
     border-radius: 5px;
     border: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.container {
+    text-align: center;
+}
+
+#search {
+    padding: 8px;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
 }
